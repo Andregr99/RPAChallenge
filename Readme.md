@@ -50,5 +50,6 @@ pip install -r requirements.txt
 
 Modo interativo (abre o navegador):
 python projeto.py challenge.xlsx
+
 Modo headless (sem abrir o navegador):
 python projeto.py challenge.xlsx --headless
