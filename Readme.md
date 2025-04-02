@@ -31,6 +31,7 @@ Este projeto é um exemplo de automação avançada utilizando Python, Playwrigh
 1️⃣  **Clone o repositório:**
 
 git clone https://github.com/Andregr99/RPAChallenge.git
+
 cd RPAChallenge
 
 2️⃣  **Crie e ative um ambiente virtual:**
