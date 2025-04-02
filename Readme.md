@@ -5,9 +5,13 @@ Este projeto é um exemplo de automação avançada utilizando Python, Playwrigh
 ## ⚙️ **Funcionalidades**  
 
 ✅ **Leitura dinâmica de planilhas:** Carrega automaticamente os dados de um arquivo Excel.
+
 ✅ **Automação via Playwright:** Preenche formulários de forma eficiente, interagindo diretamente com os elementos da página.
+
 ✅ **Execução parametrizada:** Permite rodar o script em modo headless ou interativo.
+
 ✅ **Logging estruturado:** Registra eventos e erros, facilitando a depuração.
+
 ✅ **Tratamento de exceções:** Evita falhas inesperadas e melhora a confiabilidade do processo.
 
 ## 🚀 **Tecnologias Utilizadas**
