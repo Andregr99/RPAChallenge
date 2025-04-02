@@ -1,4 +1,4 @@
-# 🌤️ ** Automação do RPA Challenge com Playwright** 🤩
+# 🌤️ **Automação do RPA Challenge com Playwright** 🤩
 
 Este projeto é um exemplo de automação avançada utilizando Python, Playwright e Pandas, demonstrando habilidades em web scraping, manipulação de dados e automação de processos empresariais. O código foi estruturado para seguir boas práticas, incluindo tratamento de erros, logging e execução parametrizada.
 
