@@ -29,6 +29,7 @@ Automação robusta para o RPA Challenge usando Playwright e Python.
 **Pré-requisitos**
 
 Python 3.10 ou superior
+
 Git (para clonar o repositório)
 
 1️⃣ Clone o repositório:
@@ -48,6 +49,7 @@ source venv/bin/activate
 3️⃣ Instale as dependências e o Playwright:
 
 pip install -r requirements.txt
+
 playwright install
 
 ℹ️ Suporte ao Playwright
