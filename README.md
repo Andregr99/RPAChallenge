@@ -34,7 +34,7 @@ Git (para clonar o repositório)
 
 1️⃣ Clone o repositório:
 
-git clone https://github.com/seu-usuario/RPAChallenge.git
+git clone https://github.com/Andregr99/RPAChallenge.git
 
 cd RPAChallenge
 
