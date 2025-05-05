@@ -41,8 +41,10 @@ cd RPAChallenge
 2️⃣ Crie e ative um ambiente virtual:
 
 python -m venv venv
+
 Windows:
 venv\Scripts\activate
+
 Linux/Mac:
 source venv/bin/activate
 
@@ -58,6 +60,9 @@ Logs diários em /logs/YYYY-MM-DD.log
 Planilha de resultados em /results/results.xlsx
 
 Screenshot final em /results/final_result.png
+
+ℹ️ Aviso
+Caso você prefira baixar o arquivo "challenge.xlsx" diretamente do site, atenção: a coluna "Last Name" contém um espaço extra no final do nome da coluna ("Last Name "). Recomendo removê-lo para evitar problemas no processamento dos dados.
 
 ℹ️ Suporte ao Playwright
 
